@@ -1,10 +1,10 @@
 ---
 applications:
   - instances: 1
-    name: sociallogingerman24ene
+    name: socialmovieadding24
     memory: 256M
     domain: mybluemix.net
-    host: sociallogingerman24ene
+    host: socialmovieadding24
     path: .
     command: npm start
 
